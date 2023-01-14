@@ -1,0 +1,21 @@
+{
+    "name": "keyconv",
+    "version": "1.0.0",
+    "description": "Ethereum Private Key Converter",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "ethereum key"
+    ],
+    "author": "OpusM",
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url":"git://bitbucket.org/opusm/ledgermaster-abc-example.git"
+    },
+    "dependencies": {
+      "keythereum": "^1.2.0"
+    }
+  }
